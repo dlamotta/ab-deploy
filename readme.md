@@ -1,6 +1,6 @@
 ##Running AB Testing on OpenShift
 
-**Steps**
+** Steps **
 
 * Using Web Console create a new-app with name `app-a`. Go to advanced options and uncheck the route creation option so that the app does not create a route. We will add the route later.
 * Add a route by clicking on the `Create Route` option next to service `app-a`. Give a common name for the route as it will frontend multiple versions of the application eg: appab-abdemo.apps.testv3.osecloud.com
