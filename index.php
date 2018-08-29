@@ -1,4 +1,4 @@
 <center>
- <h2>Richard is a fashion icon :-) !!</h2>
- <img src=richard.jpg width=400>
+ <h2>Fred is a fashion icon!!</h2>
+ <img src=fred.png width=400>
 </center>
